@@ -1,0 +1,7 @@
+http://httpbin.org
+https://demo.testfire.net/
+http://testfire.net/
+https://demo.testfire.net/
+https://example.com
+http://example.com
+https://tryhackme.com/
